@@ -1,1 +1,1 @@
-# DSC-Web Sevelopment Chapter Assignments and Practices
+# DSC-Web Development Chapter Assignments and Practices
